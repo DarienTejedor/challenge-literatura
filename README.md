@@ -41,25 +41,25 @@ La aplicacion fue creaca con java 23, SpringBoot y Postgress.
 
 ### Menu Principal
 
-![menu-principal](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20192321.png)
+![menu_principal.png](challenge_literatura%2Fassets%2Fmenu_principal.png)
 
 ### Lista de libros
 
-![Lista-de-libros](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20192556.png)
+![lista_libros.png](challenge_literatura%2Fassets%2Flista_libros.png)
 
 ### Lista de autores
 
-![lista-de-autores](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20192846.png)
+![lista_autores.png](challenge_literatura%2Fassets%2Flista_autores.png)
 
 ### Filtrado por año
 
-![filtrado-por-año](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20192952.png)
+![filtro_año.png](challenge_literatura%2Fassets%2Ffiltro_a%C3%B1o.png)
 
 ### Filtrado por idioma
 
-![escoojer-idioma](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20193048.png)
+![menu_filtro_idioma.png](challenge_literatura%2Fassets%2Fmenu_filtro_idioma.png)
 
-![resultados](..%2F..%2F..%2F..%2FUsers%2F2005d%2FOneDrive%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20de%20pantalla%202024-11-14%20193101.png)
+![filtro_idioma.png](challenge_literatura%2Fassets%2Ffiltro_idioma.png)
 
 # Gracias por ver mi proyecto
 
